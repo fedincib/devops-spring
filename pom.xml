@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>pifinity</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <name>pifinity</name>
     <description>pifinity</description>
     <properties>
