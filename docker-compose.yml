@@ -15,7 +15,7 @@ services:
   app-timesheet:
     depends_on:
       - mysqlDb
-    image: fedincib/pifinity:0.0.4
+    image: fedincib/pifinity:0.0.3
     restart: on-failure
     ports:
       - 8084:8084
